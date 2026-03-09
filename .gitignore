@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Build output
+out/
+
+# JavaFX SDK (auto-downloaded by run.sh)
+javafx-sdk/
+
+# Distribution
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
